@@ -4,7 +4,7 @@
 
 With My JSON Server online service and a simple GitHub repo, you can have your own online fake REST server in seconds. 
 
-https://my-json-server.typicode.com/Finoy/fack-api/users/
+https://my-json-server.typicode.com/Finoy/fake-api/users/
 
 You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.
 
@@ -13,7 +13,7 @@ You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between c
 Run this code in a console or from any site: 
 
 ```sh
-fetch('https://my-json-server.typicode.com/Finoy/fack-api/users/1')
+fetch('https://my-json-server.typicode.com/Finoy/fake-api/users/1')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
