@@ -17,3 +17,8 @@ fetch('https://my-json-server.typicode.com/Finoy/fake-api/users/1')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
+
+### Random User Generator
+A free, open-source API for generating random user data. Like Lorem Ipsum, but for people. 
+
+https://randomuser.me/
