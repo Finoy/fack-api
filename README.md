@@ -2,7 +2,7 @@
 
 # Use your own data
 
-With My JSON Server online service and a simple GitHub repo, you can have your own online fake REST server in seconds. 
+With [typicode's](https://github.com/typicode) MyJSONServer online service(https://my-json-server.typicode.com/) and a simple GitHub repo, you can have your own online fake REST server in seconds. 
 
 https://my-json-server.typicode.com/Finoy/fake-api/users/
 
@@ -18,7 +18,7 @@ fetch('https://my-json-server.typicode.com/Finoy/fake-api/users/1')
   .then(json => console.log(json))
 ```
 
-### Random User Generator
+### For Random User Generator with profile image
 A free, open-source API for generating random user data. Like Lorem Ipsum, but for people. 
 
 https://randomuser.me/
